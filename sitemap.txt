@@ -1,3 +1,4 @@
+https://zejiezhao.github.io/2025/04/20/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%AC%AC%E4%B8%80%E8%8A%82/
 https://zejiezhao.github.io/about/me.html
 https://zejiezhao.github.io/2025/04/19/hello-world/
 https://zejiezhao.github.io/2025/04/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/
@@ -5,4 +6,6 @@ https://zejiezhao.github.io/
 https://zejiezhao.github.io/tags/Hexo/
 https://zejiezhao.github.io/tags/%E5%8D%9A%E5%AE%A2/
 https://zejiezhao.github.io/tags/%E6%97%A5%E8%AE%B0/
+https://zejiezhao.github.io/tags/%E7%94%B5%E7%A3%81%E5%9C%BA/
 https://zejiezhao.github.io/categories/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/
+https://zejiezhao.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
